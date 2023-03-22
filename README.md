@@ -16,7 +16,7 @@ Foi Usado:
 - React SWR data fetching
 - Zustand state management
 
-### Setup .env arquivo
+## Setup .env arquivo
 
 ```js
 DATABASE_URL=
@@ -28,7 +28,7 @@ NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
 ```
  
-### Iniciar o app
+## Iniciar o app
 
 ```shell or bash..
 npm run dev
