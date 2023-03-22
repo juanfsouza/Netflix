@@ -4,7 +4,7 @@
 ![netflix_s](https://user-images.githubusercontent.com/88254614/226807565-1379a94f-ead4-4702-a79a-e381bfab612f.png)
 
 
-Foi Usado:
+##Foi Usado:
 
 - Environment, Typescript, NextJS Setup
 - MongoDB & Prisma connectar, Database creation
