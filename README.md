@@ -1,5 +1,5 @@
  
-#### Montando um Site Netflix Fullstack com React, NextJS, TailwindCSS e Prisma
+## Montando um Site Netflix Fullstack com React, NextJS, TailwindCSS e Prisma
 
 ##
 
