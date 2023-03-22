@@ -1,6 +1,5 @@
  
-
-<div align="right" src=https://user-images.githubusercontent.com/88254614/226804585-5590e2be-ed33-467a-9177-c7fc1524b490.gif/>
+![video-to-gif](https://user-images.githubusercontent.com/88254614/226805657-dbad4c8a-bbce-40aa-a2b2-1d62acc98c9d.gif)
 
  
  ### NodeJs
