@@ -6,15 +6,15 @@
 
 ## Foi Usado:
 
-- Environment, Typescript, NextJS Setup
-- MongoDB & Prisma connectar, Database creation
-- Authentication with NextAuth, Google & Github Login
-- Full responsiveness on all pages
-- Cookie based authentication
-- API and Controllers creation
-- Detail-oriented effects and animations using TailwindCSS
-- React SWR data fetching
-- Zustand state management
+- Ambiente, Typescript, Configuração do NextJS
+- MongoDB & Prisma connectar, criação de banco de dados
+- Autenticação com NextAuth, Google & Github Login
+- Capacidade de resposta total em todas as páginas
+- Autenticação baseada em cookies
+- Criação de API e Controllers
+- Efeitos e animações orientados a detalhes usando TailwindCSS
+- Reagir à busca de dados SWR
+- Gerenciamento de estado Zustand
 
 ## Setup .env arquivo
 
