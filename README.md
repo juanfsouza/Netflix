@@ -64,5 +64,5 @@ Foi adicionado area de usuario/char igual a Netflix em arquivo profiles.tsx
 segue>
 ![2](https://user-images.githubusercontent.com/88254614/227362289-32f0ebdb-2e1a-441f-b284-dd8ec266b242.gif)
 
-Depois integrei Mongodb ao site salvar
+Depois integrei Mongodb ao site salvar dados.
 ![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
