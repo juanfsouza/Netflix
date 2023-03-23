@@ -51,19 +51,23 @@ Proxima att vou colocar um sistema de pt - ing
 Foi colocado um sistema de login & register 
 Implementei sistema de login Google Client ID & GitClient ID
 segue>
+##
 ![video-to-gif](https://user-images.githubusercontent.com/88254614/226805657-dbad4c8a-bbce-40aa-a2b2-1d62acc98c9d.gif)
 
 
 ## Atulização 2.0 
 
 Adicionei sistema de como usuario tentar clicar em logar vai aparecer um erro impedindo dele nao acessar area de usuario
-segue><br>
+segue>
+##
 ![1](https://user-images.githubusercontent.com/88254614/227362260-dd78c210-e516-4206-9875-04aed3a27748.gif)
 
 Foi adicionado area de usuario/char igual a Netflix em arquivo profiles.tsx 
-segue><br>
+segue>
+##
 ![2](https://user-images.githubusercontent.com/88254614/227362289-32f0ebdb-2e1a-441f-b284-dd8ec266b242.gif)
 
 Depois integrei Mongodb ao site salvar dados.
-segue><br>
+segue>
+##
 ![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
