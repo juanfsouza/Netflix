@@ -3,6 +3,8 @@
 
 ![netflix_s](https://user-images.githubusercontent.com/88254614/226807565-1379a94f-ead4-4702-a79a-e381bfab612f.png)
 
+![Screenshot_1](https://user-images.githubusercontent.com/88254614/227362334-165c91d1-f917-40dc-8b69-2d1c8f73d83a.png)
+
 
 ## Foi Usado:
 
@@ -45,3 +47,11 @@ Comando npm `npm run [comando]`
 ## Netflix :)
 
 ![video-to-gif](https://user-images.githubusercontent.com/88254614/226805657-dbad4c8a-bbce-40aa-a2b2-1d62acc98c9d.gif)
+
+## Atulização 2.0 
+
+![1](https://user-images.githubusercontent.com/88254614/227362260-dd78c210-e516-4206-9875-04aed3a27748.gif)
+
+![2](https://user-images.githubusercontent.com/88254614/227362289-32f0ebdb-2e1a-441f-b284-dd8ec266b242.gif)
+
+![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
