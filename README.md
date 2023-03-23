@@ -49,7 +49,7 @@ Proxima att vou colocar um sistema de pt - ing
 
 ## Netflix 1.0 :)
 Foi colocado um sistema de login & register 
-Implementei sistema de login Google Client ID & GitHub Client ID
+Implementei sistema de login Google Client ID & GitHub ID
 
 ##
 ![video-to-gif](https://user-images.githubusercontent.com/88254614/226805657-dbad4c8a-bbce-40aa-a2b2-1d62acc98c9d.gif)
