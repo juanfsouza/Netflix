@@ -70,6 +70,5 @@ Foi adicionado area de usuario/char igual a Netflix em arquivo profiles
 Depois integrei Mongodb ao site para salvar os dados.
 
 ##
-<p align="center">
-![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
- </p>
+
+<p align="center">![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)</p>
