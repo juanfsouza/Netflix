@@ -71,8 +71,4 @@ Depois integrei Mongodb ao site para salvar os dados.
 
 ##
 
-![2](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
-
-<p align="center">
-<img width="470" src="assets/img/mobile.gif](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif">
-</p>
+![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
