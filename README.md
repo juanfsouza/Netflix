@@ -1,5 +1,5 @@
  
-# Montando um Site Netflix Fullstack com React
+# Montando um Site Netflix com React
 
 ![netflix_s](https://user-images.githubusercontent.com/88254614/226807565-1379a94f-ead4-4702-a79a-e381bfab612f.png)
 
