@@ -1,5 +1,5 @@
  
-# Montando um Site Netflix Fullstack com React, NextJS, TailwindCSS e Prisma
+# Montando um Site Netflix com React
 
 ![netflix_s](https://user-images.githubusercontent.com/88254614/226807565-1379a94f-ead4-4702-a79a-e381bfab612f.png)
 
@@ -57,12 +57,12 @@ Implementei sistema de login Google Client ID & GitHub ID
 
 ## Atulização 2.0 
 
-Adicionei sistema de como usuario tentar clicar em logar vai aparecer um erro impedindo dele nao acessar area de usuario
+Adicionei sistema de como usuario tentar clicar em logar vai aparecer um erro impedindo ele nao acessar area de usuario
 
 ##
 ![1](https://user-images.githubusercontent.com/88254614/227362260-dd78c210-e516-4206-9875-04aed3a27748.gif)
 
-Foi adicionado area de usuario/char igual a Netflix em arquivo profiles.tsx 
+Foi adicionado area de usuario/char igual a Netflix em arquivo profiles 
 
 ##
 ![2](https://user-images.githubusercontent.com/88254614/227362289-32f0ebdb-2e1a-441f-b284-dd8ec266b242.gif)
@@ -70,4 +70,5 @@ Foi adicionado area de usuario/char igual a Netflix em arquivo profiles.tsx
 Depois integrei Mongodb ao site para salvar os dados.
 
 ##
+
 ![3](https://user-images.githubusercontent.com/88254614/227362300-74d773b0-e763-4567-8539-152d527c5565.gif)
