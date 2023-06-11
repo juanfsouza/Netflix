@@ -42,7 +42,7 @@ Comando npm `npm run [comando]`
 
 | comando         | description                              |
 | :-------------- | :--------------------------------------- |
-| `dev`           | Inicia uma instância de desenvolvimento  |
+| `dev`           | Inicia Server |
 
 Como gosto muito de assistir filmes resolvir criar um site igual Netflix em ingles para dar aquela treinada no ingles
 Proxima att vou colocar um sistema de pt - ing
